@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm João Lopes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jcalopes&label=Profile%20views&color=0e75b6&style=flat" alt="jcalopes" /> </p>
 
-- 📫 How to reach me out: **lopes.joao.ca@gmail.com**
+- 📫 Reach me out: **lopes.joao.ca@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
