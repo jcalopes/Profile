@@ -1,6 +1,6 @@
 
 - 📫 Reach me out: **lopes.joao.ca@gmail.com**
-- 👀 Follow: https://medium.com/@jlopesdev
+- 👀 Follow: **https://medium.com/@jlopesdev**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
